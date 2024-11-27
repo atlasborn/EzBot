@@ -1,0 +1,6 @@
+.vercel
+.dockerignore
+Dockerfile
+venv/
+vercel.json
+.vercel/
